@@ -1,0 +1,15 @@
+word_list = ["ardvark", "baboon", "camel",
+"apple", "bicycle", "elephant", "mountain", "sunlight", "laptop", "ocean", "library", "adventure", "happiness", "galaxy", "butterfly", "chocolate", "whisper", "thunder", "harmony", "telescope", "enchanting", "rainbow", "laughter", "mysterious", "pineapple", "breeze", "serendipity", "jigsaw", "kaleidoscope", "solitude", "fragrance", "avalanche", "meadow", "labyrinth", "symphony", "infinity", "trampoline", "zephyr", "cascade", "ember", "twilight", "melody", "shimmer", "serenity", "exploration", "labyrinth", "jubilation", "blossom", "paradigm", "effervescent", "kaleidoscope", "serendipity", "ethereal", "jubilant", "tranquility", "jubilation", "reverie", "meander", "clandestine", "effulgent", "resplendent", "incandescent", "labyrinthine", "nebulous", "ephemeral", "petrichor", "evanescent", "iridescent", "clandestine", "myriad", "ineffable", "luminescent", "nocturnal", "opulent", "paradigm", "petrichor", "quintessential", "serendipity", "tranquility", "umbrella", "vivacious", "whimsical", "xenial", "yonder", "zephyr", "ethereal", "luminous", "tranquility", "enigma", "nebula", "exquisite", "ephemeral", "cascade", "harmonious", "jubilation", "luminous", "myriad", "nocturnal", "opulent", "petrichor", "quintessential", "radiant", "serendipity", "tranquility", "ubiquitous", "voyage", "whimsical", "xenial", "yonder", "zephyr", "ambiance", "cascade", "enigma", "nebula", "exquisite", "kaleidoscope", "luminous", "myriad", "nocturnal", "opulent", "petrichor", "quintessential", "radiant", "serendipity", "tranquility", "ubiquitous", "voyage", "whimsical", "xenial", "yonder", "zephyr", "ambiance", "cascade", "enigma", "nebula", "exquisite", "kaleidoscope", "luminous", "myriad", "nocturnal", "opulent", "petrichor", "quintessential", "radiant", "serendipity", "tranquility", "ubiquitous", "voyage", "whimsical", "xenial", "yonder", "zephyr", "ambiance", "cascade", "enigma", "nebula", "exquisite", "kaleidoscope", "luminous", "myriad", "nocturnal", "opulent", "petrichor", "quintessential", "radiant", "serendipity", "tranquility", "ubiquitous", "voyage", "whimsical", "xenial", "yonder", "zephyr", "ambiance", "cascade", "enigma", "nebula", "exquisite", "kaleidoscope", "luminous", "myriad", "nocturnal", "opulent", "petrichor", "quintessential", "radiant", "serendipity", "tranquility", "ubiquitous", "voyage", "whimsical", "xenial", "yonder", "zephyr", "ambiance", "cascade", "enigma", "nebula", "exquisite", "kaleidoscope", "luminous", "myriad", "nocturnal", "opulent", "petrichor", "quintessential", "radiant", "serendipity", "tranquility", "ubiquitous", "voyage", "whimsical", "xenial", "yonder", "zephyr"]
+
+
+logo = """
+██╗░░██╗░█████╗░███╗░░██╗░██████╗░███╗░░░███╗░█████╗░███╗░░██╗
+██║░░██║██╔══██╗████╗░██║██╔════╝░████╗░████║██╔══██╗████╗░██║
+███████║███████║██╔██╗██║██║░░██╗░██╔████╔██║███████║██╔██╗██║
+██╔══██║██╔══██║██║╚████║██║░░╚██╗██║╚██╔╝██║██╔══██║██║╚████║
+██║░░██║██║░░██║██║░╚███║╚██████╔╝██║░╚═╝░██║██║░░██║██║░╚███║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+"""
+
+
+
