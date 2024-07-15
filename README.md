@@ -21,7 +21,6 @@ Hangman is a word guessing console based game created using python.
 3. Win or Lose:
    - You win if you guess all the letters in the word before running out of lives.
    <img width="445" alt="4" src="https://github.com/user-attachments/assets/96fbe38d-e3e2-4204-9c16-f208044260e6">
-
    - You lose if you run out of lives before guessing the word.
    <img width="260" alt="5" src="https://github.com/user-attachments/assets/d4402d7b-1267-412e-b206-0674a582df34">
 
